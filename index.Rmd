@@ -1,0 +1,14 @@
+--- 
+title: "Rodinná kuchárska kniha - draft"
+author: "Jakub Kováč"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+github-repo: kucharka/kucharka
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+ 
+# Úvod
