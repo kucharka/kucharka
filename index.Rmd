@@ -8,7 +8,11 @@ documentclass: book
 biblio-style: apalike
 link-citations: yes
 github-repo: kucharka/kucharka
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+description: "Rodinná kuchárska kniha avšak stále v procese písania."
 ---
  
 # Úvod
+
+Nie tak úplne prvá kuchárska kniha s [otvoreným zdrojovým kódom](https://github.com/kucharka/kucharka_code).
+
+Uštrikuj si túto knihu pomocou `bookdown::render_book("index.Rmd")`.
