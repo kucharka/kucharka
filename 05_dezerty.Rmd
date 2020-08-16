@@ -86,23 +86,22 @@ Postup:
 
 Ingrediencie:
 
-* Cesto:
+Cesto:
 
-  * 500g hladkej múky
-  * 500g polohrubej múky
-  * 60g droždia
-  * 4g soli
-  * 130g cukru
-  * 300g masla
-  * 0,2l mlieka
+* 500g hladkej múky
+* 500g polohrubej múky
+* 60g droždia
+* 4g soli
+* 130g cukru
+* 300g masla
+* 0,2l mlieka
 
-* Plnka:
+Plnka:
 
-  * 500g maku/orechov
-  * 200g práškového cukru
-  * 1 vanilkový cukor
-  * 0,25l mlieka
-
+* 500g maku/orechov
+* 200g práškového cukru
+* 1 vanilkový cukor
+* 0,25l mlieka
 * 2 žĺtky na potretie
 
 Postup:
