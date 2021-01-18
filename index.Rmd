@@ -1,5 +1,5 @@
 --- 
-title: "Rodinná kuchárska kniha - draft"
+title: "Rodinná kuchárska kniha"
 author: "Jakub Kováč"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
