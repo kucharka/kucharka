@@ -1,6 +1,7 @@
 library(tidyverse)
 library(rdrop2)
 
+setwd("/home/kubo/Documents/kucharka_code")
 # download .md files from dropbox
 drop_dir('kucharska_kniha') %>%
   pull(path_lower) %>%
@@ -26,3 +27,4 @@ system('cd ../kucharka.github.io; git add --all; git commit -m "Updating website
        intern = TRUE)
 
 cat("------ Everything done. Nothing to do here. ------\n")
+
