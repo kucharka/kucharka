@@ -49,17 +49,17 @@ Postup:
 
 Ingrediencie:
 
-* 0.66kg bravčové mleté
-* 1.33kg hovädzie mleté
-* Paradajkový pretlak - najlepšie aj s rajčinovou dužinou
-* Cibuľa
-* Zeler - ak máme tak rapíkatý
-* Mrkva
-* 150g Maslo
-* 150g Hladká múka
-* 1l Mlieka
-* Červené víno
-* Olej
+0.66kg bravčové mleté
+1.33kg hovädzie mleté
+Paradajkový pretlak - najlepšie aj s rajčinovou dužinou
+Cibuľa
+Zeler - ak máme tak rapíkatý
+Mrkva
+150g Maslo
+150g Hladká múka
+1l Mlieka
+Červené víno
+Olej
 
 Postup:
 
@@ -75,20 +75,19 @@ Postup:
 ## Sviečková na smotane
 
 Ingrediencie:
-
-* 1kg hovädzie zadné alebo iné mäsko
-* 6ks mrkva
-* 3ks petržlen
-* 1ks zeler
-* 1 kaleráb (nemusí byť(
-* 2-3 cibuľa
-* 4Pl lyžice oleja
-* 250 smotana na šlahanie
-* soľ
-* 2ks bobkový list
-* 5ks čierne korenie
-* 2ks nové korenie
-* štipka struhaného muškátového orecha 
+1kg hovädzie zadné alebo iné mäsko
+6ks mrkva
+3ks petržlen
+1ks zeler
+1 kaleráb (nemusí byť(
+2-3 cibuľa
+4Pl lyžice oleja
+250 smotana na šlahanie
+soľ
+2ks bobkový list
+5ks čierne korenie
+2ks nové korenie
+štipka struhaného muškátového orecha 
 
 1. Mäsko umyjeme a v celku ho opražíme z každej strany,podlejeme vodou, pridáme zeleninu a korenie
 2. Varíme v tlakovom hrnci cca 30-40 minút alebo v rímskom hrnci v rúre cca 1,5-2,5 hod.
@@ -97,38 +96,5 @@ Ingrediencie:
 5. Podávame ho s knedľou a brusnicami.
 
 
-## Gulas
 
-Potrebujeme 15l kotlik. Dlzka varenia je priblizne 3 hodiny.
-
-Ingrediencie: 
-
-* 1.5kg hovadzieho - mocingu alebo krku
-* 2.5kg bravcoveho pliecka
-* 3kg bielej cibule
-* 0.25kg masti
-* 0.5 hlavy zeleru
-* mrkva
-* petrzlen
-* paradajky
-* papripka
-* 2-3 struciky cesnaku(maximalne pol hlavy)
-* 100g mletej sladkej cervenej papriky
-* 28g gulasovej koreniacej zmesy alebo ekvivalentu korenin(paprika mleta, cibula susena, cierne korenie, rasca mleta, majoranka)
-* chilli
-* majoran
-* oregano/bazalka
-
-Postup:
-
-1. Ocistime maso od sliach a nakrajame na kocky.
-1. Ocistime cibulu a nakrajame/nastruhame ju na platky.
-1. Na masti spenime vsetku cibulu (priblizne 20 minut) a nasledne pridame hovadzie maso.
-1. Intenzivne miesame.
-1. Vyvarime slachy a odrezky masa s trochou soli. Scedime a pridame na kocky nakrajany zeler. Po uvareni zeleru vsetko rozmixujeme.
-1. Pridame do gulasa a nasledne mozme znizit intezitu miesania.
-1. Pridame korenie okrem Majoranky.
-1. Po 1 hodine a 20 minutach od zaciatku varenia pridame bravcove maso.
-1. Po 2 hodinach od zaciatku varenia pridame nakrajanu papriku.
-1. Sparime rajciny, osupeme ich a pokrajane so zvyskom zeleniny vhodime do gulasa.
-1. Na konci varenia pridame pretlaceny cesnak a Majoranku.
+ 
