@@ -9,13 +9,13 @@ perkelt
 karé-na-šlahačke
 lasagne-bolognese
 sviečková-na-smotane
-gulas
+guláš
 vegetariánske-jedlá
 tekvicový-prívarok
 patizónové-placky
 parené-buchty
 bryndzové-pirohy
-dukatove-buchticky
+bryndzové-halušky
 prílohy
 halušky
 majonézový-šalát
@@ -31,4 +31,5 @@ vanilkové-rohlíky
 lepené-kolieska-čo-ľúbi-peťka
 linecké-hanča
 opekance-s-makom
-kolieska-majky-matovičovej
+kolieska-majky-m.
+krupicové-tašky

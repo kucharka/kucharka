@@ -3,9 +3,10 @@ library(rdrop2)
 
 setwd("/home/kubo/Documents/kucharka_code")
 # download .md files from dropbox
+if(!file.exists("md_files")) dir.create("md_files")
 drop_dir('kucharska_kniha') %>%
   pull(path_lower) %>%
-  walk(~drop_download(.x, overwrite = TRUE, local_path = "md_files"))
+  walk(~drop_download(.x, overwrite = TRUE, local_path = "md_files/"))
 
 # convert to .Rmd files and move to the top of directory
 walk(list.files("md_files"), ~file.copy(paste0("md_files/",.x),
