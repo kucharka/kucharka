@@ -294,12 +294,59 @@ Postup:
 
 1. Zemiaky môžeme uvariť deň vopred, aby bolo cesto lepšie.
 2. Pripravíme kvások z mlieka, droždia a cukru. 
-3. Múku preosejeme, pretlačíme do nej uvarené zemiaky, pridáme soľ, vajce a kvások. Všetko spolu vymiešame buď na doske alebo v robote.
+3. Múku preosejeme, pretlačíme do nej uvarené zemiaky, pridáme soľ, vajce a kvások. Všetko spolu vymiešame buď na doske alebo v robote.
 4. Cesto rozdelíme na 2 časti a necháme vykysnúť ako 2 bochníky na doske. Môžeme ho rozdeliť aj na 3 časti, vtedy budú tašky menšie. 
-5. Krupicu môžeme trochu na sucho upražiť na panvici, pridáme do nej masť a cukor (nemusí sa smažiť, vtedy len všetko zmiešame spolu).
-6. Vykysnuté cesto rozvaľkáme a natrieme pripravenou zmesou. Ak je zmes málo mastná, môžeme trošku pokvapkať rozpustenou masťou.
+5. Krupicu môžeme trochu na sucho upražiť na panvici, pridáme do nej masť a cukor (nemusí sa smažiť, vtedy len všetko zmiešame spolu).
+6. Vykysnuté cesto rozvaľkáme a natrieme pripravenou zmesou. Ak je zmes málo mastná, môžeme trošku pokvapkať rozpustenou masťou.
 7. Zrolujeme do závinu.
-8. Závin režeme na 7 – 10 cm kusy a kladieme na plech, papier na pečenie trochu ďalej od seba, aby sa tašky dobre prepiekli a boli chrumkavé.
+8. Závin režeme na 7 – 10 cm kusy a kladieme na plech, papier na pečenie trochu ďalej od seba, aby sa tašky dobre prepiekli a boli chrumkavé.
 9. Po nakysnutí pred pečením natrieme rozpustenou masťou.
 10. Pečieme na 200 stupňov celzia asi 20 min.
+
+## Orechová torta
+
+Ingrediencie
+
+Korpus: 
+
+* 5 vajec
+* 100 g práškového cukru
+* 2 lyžice veľmi teplej vody
+* 1 malá lyžička oleja
+* 150 g mletých orechov
+* 4 kopcovité lyžice strúhanky
+
+Plnka: 
+
+* 30 g masla
+* 30 g hladkej múky
+* 0.35l mlieka
+* 30 g kakaa
+* 100 g masla
+* 100 g práškového cukru
+
+Postup:
+
+1. 5 žĺtok a 100 g práškového cukru vymiešame do peny. Potom pomaly pridávame počas
+miešania 2 lyžice veľmi teplej vody a miešame ďalej. 
+2. Nakoniec pomaly pridáme 1 malú lyžičku oleja a chvíľu ešte domiešame.
+3. Z 5 bielkov vyšlaháme sneh.
+3. Pomaly pridávame mleté orechy zmiešané so strúhankou a vymiešaný sneh. Môžeme pridať
+trochu rumu.
+4. Vylejeme do formy vyloženej papierom, upečieme a necháme vychladnúť.
+5. Z 30 g masla a 30 g hl.múky pripravíme svetlú zápražku. Na chvíľu odstavíme z ohňa a potom
+zalejeme pomaly 0.25l mliekom a pritom „rýchlo miešame“, aby sa nenarobili hrudky. Ak by sa
+stalo, musíme pretrieť cez sito, aby bola plnka hladká. Dobre povaríme na hustú omáčku a
+odstavíme. Občas premiešame, aby sa nevytvorila škrupina.
+6. Do 30 g kakaa nalejeme trochu mlieka a varíme na hustú kašu. Pozor, dáme naozaj len pár
+lyžíc mlieka a radšej potom pridáme (aby nebolo veľmi riedke). Uvaríme hustú kašu
+a vmiešame do prvej kaše z múky. Odstavíme a občas premiešame do úplného vychladnutia.
+Môžeme vložiť do studenej vody, aby rýchlejšie chladlo a premiešavame.
+7. 100 masla a 100 g. pr.cukru vymiešame do peny.
+8. Ak už máme úplne vychladnutú varenú časť plnky, môžeme zmiešať obidve časti spolu.
+9. Musíme dodržať postup zmiešavania plniek.
+10. Musia byť rovnako studené, inak sa zrazí a zostane ako krupicová kaša a zmenší svoj
+objem.
+11. Vždy musíme maslovú časť pomaly vmiešať do časti s múkou. Nikdy nie opačne.
+Vytvorili by sa hrčky, ktoré sa už nedajú zlikvidovať.
 
