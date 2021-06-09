@@ -103,32 +103,35 @@ Potrebujeme 15l kotlík. Dĺžka varenia je približne 3 hodiny.
 
 Ingrediencie: 
 
-* 1.5kg hovadzieho - mocingu alebo krku
-* 2.5kg bravcoveho pliecka
-* 3kg bielej cibule
+* 2kg hovadzieho - mocingu alebo krku
+* 2kg bravcoveho pliecka
+* 3-4kg bielej cibule
 * 0.25kg masti
 * 0.5 hlavy zeleru
-* mrkva
-* petrzlen
+* mrkva - 1 veľká až 2
+* petržlen
 * paradajky
 * papripka
-* 2-3 struciky cesnaku(maximalne pol hlavy)
+* pol hlavy cesnaku
 * 100g mletej sladkej cervenej papriky
 * 28g gulasovej koreniacej zmesy alebo ekvivalentu korenin(paprika mleta, cibula susena, cierne korenie, rasca mleta, majoranka)
+* pol balíčka mletej rasce
+* 3-4 lyžičky soli
+* 1 lyžička čierneho korenia
 * chilli
 * majoran
 * oregano/bazalka
 
 Postup:
 
-1. Ocistime maso od sliach a nakrajame na kocky.
-1. Ocistime cibulu a nakrajame/nastruhame ju na platky.
-1. Na masti spenime vsetku cibulu (priblizne 20 minut) a nasledne pridame hovadzie maso.
-1. Intenzivne miesame.
-1. Vyvarime slachy a odrezky masa s trochou soli. Scedime a pridame na kocky nakrajany zeler. Po uvareni zeleru vsetko rozmixujeme.
-1. Pridame do gulasa a nasledne mozme znizit intezitu miesania.
-1. Pridame korenie okrem Majoranky.
-1. Po 1 hodine a 20 minutach od zaciatku varenia pridame bravcove maso.
-1. Po 2 hodinach od zaciatku varenia pridame nakrajanu papriku.
-1. Sparime rajciny, osupeme ich a pokrajane so zvyskom zeleniny vhodime do gulasa.
-1. Na konci varenia pridame pretlaceny cesnak a Majoranku.
+1. Očistíme mäso od šliach a nakrájame na kocky.
+1. Vyvaríme šlachy a odrezky mäsa s trochou soli. Scedíme a pridáme na kocky nakrajaný zeler. Po uvarení zeleru všetko rozmixujeme.
+1. Očistíme cibuľu a nakrajame/nastruhame ju na platky.
+1. Na masti speníme všetku cibuľu (približne 20 minút) a následne pridáme hovädzie mäso.
+1. Intenzívne miešame.
+1. Pridáme zeler s vývarom do gulášu a následne môžme znížiť intezitu miešania.
+1. Pridáme korenie okrem Majoránky.
+1. Po 1 hodine a 20 minutach od začiatku varenia pridáme bravčové mäso.
+1. Po 2 hodinách od začiatku varenia pridáme nakrájanú papriku.
+1. Sparíme rajčiny, ošúpeme ich a pokrájané so zvyškom zeleniny vhodíme do gulášu. Pridáme aj pretlačený cesnak.
+1. Na konci varenia pridáme Majoránku.
