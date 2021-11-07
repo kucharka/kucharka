@@ -1,7 +1,7 @@
 library(tidyverse)
 library(rdrop2)
 
-setwd("/home/kubo/Documents/kucharka_code")
+setwd("~/Documents/kucharka_code")
 # download .md files from dropbox
 if(!file.exists("md")) dir.create("md")
 drop_dir('kucharska_kniha') %>%

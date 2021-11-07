@@ -29,17 +29,19 @@ Ingrediencie:
 * 2 celé vajcia
 * 40 dkg hl. múky
 * 2 dcl oleja
-* 3 dcl mlieka
-* 30 dkg cukru
+* 3 dcl mlieka (Anežka: 3.5-4 dcl)
+* 30 dkg cukru (Anežka: 25dkg)
 * 1 lyžica medu
 * 3 lyžice džemu
 * 1 kypriaci prášok do perníka
 * 1/2 káv. lyžičky soda bicarbona
-* 2 až 3 lyžičky kakaa
+* 2 až 3 lyžičky kakaa (Anežka: 1-2 PL kakaa)
 
 Postup:
 
-1. Všetko zmiešame a vylejeme na vymastený a múkou vysypaný plech. Pečieme cca 30 minút pri 180 stupňov celzia.
+1. Všetko zmiešame a vylejeme na vymastený (maslom/olejom) a múkou/kokosom vysypaný plech. Pečieme cca 30 minút pri 180 stupňov celzia.
+2. Po vychladnutí môžeme vrch potrieť džemom (ríbezľový, jahodový) a polejeme roztopenou čokoládou (roztopiť 100 g masla a potom 100 g čokolády v tom).
+
 
 ## Bublanina
 
